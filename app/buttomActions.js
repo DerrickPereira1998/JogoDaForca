@@ -11,7 +11,6 @@ function infoAjuda(){
         `
 }
 
-
 function voltarInicio(){
     window.location.reload()
 }
